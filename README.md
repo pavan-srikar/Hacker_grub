@@ -2,7 +2,7 @@
 
 A sleek and customizable GRUB theme for Linux systems.  
 
-![Preview](preview/image1.png)  
+![Preview](preview/preview.png)  
 
 ## Installation Instructions  
 those __MAIN__ image files are not necessary you can delete them if you want or rename them to background.png or replace background.png with your own wallpaper. 
