@@ -33,12 +33,16 @@ terminal-border: "0"
 
 # Show a countdown message using the label component
 + label {
-  top = 83%
-  left = 12%
+  top = 73%
+  left = 9%
   width = 34%
   align = "center"
   id = "__timeout__"
-  text = "Booting in %d seconds"
+  text = "Booting in %d sec"
   color = "#ffffff"
   font = "Unifont Regular 32"
+  shadow_color = "#000000"  # Set the shadow color (e.g., black)
+  shadow_xoffset = 2       # Horizontal offset for shadow
+  shadow_yoffset = 2       # Vertical offset for shadow
+
 }

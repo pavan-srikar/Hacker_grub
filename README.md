@@ -51,4 +51,4 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ### Notes  
 
 I made this in FIGMA
-![Preview](preview/screenshot.png)  
+![Preview](preview/figma.png)  
